@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.c227996e.css",
-    "main.js": "/static/js/main.cb49fd32.js",
+    "main.css": "/static/css/main.bedfcad1.css",
+    "main.js": "/static/js/main.af1cb312.js",
+    "static/media/leia.png": "/static/media/leia.9dc240de81f31d10469c.png",
     "static/media/thumbnail.png": "/static/media/thumbnail.b91b77ab1f42edab3cef.png",
-    "static/media/cv.pdf": "/static/media/cv.292cdbc525d7efb07836.pdf",
     "static/media/origami.png": "/static/media/origami.5978f66d6ce9d9c4fcad.png",
+    "static/media/cv.pdf": "/static/media/cv.e21fd29e4cdf861b2037.pdf",
+    "static/media/amiibo.png": "/static/media/amiibo.cbb78b7faf8c121c0107.png",
     "static/media/casbot.png": "/static/media/casbot.d6f333efc4a0437e7283.png",
     "static/media/tictactoe.png": "/static/media/tictactoe.a50f2691923e039c3992.png",
     "static/media/inchik.png": "/static/media/inchik.9bc9a7f4f10291299c89.png",
     "static/media/whatshouldieat.png": "/static/media/whatshouldieat.7e8f2ae0482b1bccbbd1.png",
     "static/media/inchik.jpg": "/static/media/inchik.bea3cefe2261dcd90171.jpg",
     "index.html": "/index.html",
-    "main.c227996e.css.map": "/static/css/main.c227996e.css.map",
-    "main.cb49fd32.js.map": "/static/js/main.cb49fd32.js.map"
+    "main.bedfcad1.css.map": "/static/css/main.bedfcad1.css.map",
+    "main.af1cb312.js.map": "/static/js/main.af1cb312.js.map"
   },
   "entrypoints": [
-    "static/css/main.c227996e.css",
-    "static/js/main.cb49fd32.js"
+    "static/css/main.bedfcad1.css",
+    "static/js/main.af1cb312.js"
   ]
 }
